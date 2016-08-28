@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "469644071623",
+    "firebase_url": "https://reconjet-1369.firebaseio.com",
+    "project_id": "reconjet-1369",
+    "storage_bucket": "reconjet-1369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469644071623:android:3da1235d7c304b46",
+        "android_client_info": {
+          "package_name": "com.finalproject.crane.reconjet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469644071623-pvr69ll5ulr378046qosd03i70p3bmlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBirGQjM9-KMvEN8CBRwNiEoiW3pqJdQfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
